@@ -1,0 +1,4 @@
+1,Ahmed,10
+1,Khalid,20
+1,Ali,45
+2,Ahmed,20

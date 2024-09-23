@@ -1,0 +1,15 @@
+1,Ahmed,10
+1,Khalid,20
+1,Ali,45
+2,Ahmed,20
+3,Ali,20
+3,Ahmed,80
+2,Ahmed,30
+3,Khalid,50
+1,Mohamed,50
+2,Sameh,20
+2,Ali,15
+2,Mohamed,28
+3,Sayed,10
+3,Mohamed,40
+2,Sayed,50
